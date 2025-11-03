@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.odd {
+	background: pink;
+	font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+.text-m {
+	font-size: 24px;
+}
+
+.text-h {
+	font-size: 36px;
+}
+
+#two {
+	color: blue;
+	font-size: 36px;
+}
+
+
+#four {
+	font-weight: bold;
+	background: lightgreen;
+}
